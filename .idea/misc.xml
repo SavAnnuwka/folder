@@ -2,11 +2,11 @@
 <project version="4">
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="CidrRootsConfiguration">
-    <sourceRoots>
+    <sourceRoots />
+    <libraryRoots>
       <file path="$PROJECT_DIR$/Bdir" />
       <file path="$PROJECT_DIR$/adir" />
-    </sourceRoots>
-    <libraryRoots />
+    </libraryRoots>
     <excludeRoots />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
